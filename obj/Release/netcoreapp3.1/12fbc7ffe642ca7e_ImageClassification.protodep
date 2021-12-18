@@ -1,0 +1,2 @@
+obj\Release\netcoreapp3.1\Protos/ImageClassification.cs \
+obj\Release\netcoreapp3.1\Protos/ImageClassificationGrpc.cs: Protos/ImageClassification.proto
